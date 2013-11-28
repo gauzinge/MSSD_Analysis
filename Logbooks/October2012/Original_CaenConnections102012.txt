@@ -1,0 +1,862 @@
+Run: 5897
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5896
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5895
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5894
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5893
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5892
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5891
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5890
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5889
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5888
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5887
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5886
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5885
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5884
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5883
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5882
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5881
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5880
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5879
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5878
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5877
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5876
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5875
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5874
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5873
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5872
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5871
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5870
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5869
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5868
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5867
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5866
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5865
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5864
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5863
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5862
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5861
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5860
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 0
+Run: 5858
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: -1
+Run: 5852
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5851
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5850
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5849
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5848
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5847
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5846
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5845
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5844
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5843
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5842
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5841
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5840
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5839
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5838
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5837
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5836
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5835
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5834
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5833
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5832
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5831
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5830
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5829
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5828
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5827
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5826
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5825
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5823
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5821
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5820
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5817
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5816
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5815
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5814
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5813
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5812
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5811
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5810
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5809
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5808
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5807
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5806
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5805
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5804
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5803
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5802
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5801
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5800
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: -1
+Run: 5798
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5797
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5796
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5795
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5794
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5793
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5792
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5791
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5790
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5789
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5788
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5787
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5786
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5785
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: -1
+Run: 5783
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5782
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5781
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5780
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5779
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5778
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5777
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5776
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5775
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5774
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5773
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5772
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5771
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5770
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5769
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5768
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5767
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5766
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5765
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5764
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5763
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5762
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5761
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5760
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5759
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5758
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5757
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5756
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5755
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5754
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5753
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5752
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5751
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5750
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5749
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5748
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5747
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5746
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5745
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5744
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5743
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5742
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5741
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5740
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: -1
+Run: 5739
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5738
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5737
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5736
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5735
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5734
+CAEN: cz1 21 cz2 25 cz3 26 cz4 22
+Run: 5733
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5732
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5731
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5730
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5729
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5728
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: -1
+Run: 5727
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5726
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5725
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5724
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5723
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5721
+CAEN: cz1 21 cz2 25 cz3 26 cz4 20
+Run: 5719
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5718
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5717
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5716
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5715
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: -1
+Run: 5709
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5708
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5707
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5706
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5705
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5704
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5703
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5702
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5701
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5700
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5699
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5698
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5697
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5696
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5695
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5694
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5693
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5692
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5691
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5690
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5689
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5688
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5687
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5686
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5685
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5684
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5683
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5682
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5681
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5680
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5679
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5678
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5677
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5676
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5673
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5673
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: -1
+Run: 5670
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5667
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 0
+Run: 5665
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 0
+Run: 5663
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5661
+CAEN: cz1 24 cz2 21 cz3 22 cz4 23
+Run: 5659
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 0
+Run: 5657
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5656
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5655
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 0
+Run: 5653
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5652
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5651
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5650
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5649
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5648
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5647
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5646
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5645
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5644
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5643
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5642
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5641
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5640
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5639
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5638
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5637
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5636
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5635
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5634
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5633
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5632
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: -1
+Run: 5630
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5629
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5628
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5627
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5626
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5625
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5624
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5623
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5622
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5621
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5620
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5619
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5618
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5617
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5616
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5615
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5614
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5613
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5612
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5611
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5610
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5609
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 
+Run: 5608
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5607
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5604
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5603
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5602
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5601
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5600
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5599
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5598
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5597
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5596
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5595
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5594
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5593
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5592
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5591
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5590
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5589
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5588
+CAEN: cz1 24 cz2 25 cz3 22 cz4 27
+Run: 5586
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5585
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5584
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5583
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5582
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5581
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5580
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5579
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5578
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5577
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5576
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5575
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5574
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5573
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5572
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5571
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5570
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5569
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5568
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5567
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5566
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5565
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5564
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5563
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5562
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5561
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5560
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5559
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5558
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5557
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5556
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5555
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5554
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5553
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5552
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5551
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5550
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5549
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5548
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5547
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5546
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5545
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5544
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5543
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5542
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5541
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5540
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5539
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5538
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5537
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5536
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5534
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5531
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5530
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5529
+CAEN: cz1 24 cz2 21 cz3 26 cz4 23
+Run: 5525
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5523
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5522
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5521
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5520
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5518
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5516
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5514
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5513
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 0
+Run: 5511
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 0
+Run: 5509
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5508
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5507
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5505
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5504
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5503
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5502
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5501
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5500
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5499
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5498
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5497
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5496
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5495
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5494
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5493
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5492
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5491
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5490
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5489
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5488
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5487
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5486
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5485
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5484
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5483
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5482
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5481
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5480
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5479
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5478
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5477
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5476
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5475
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5474
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5473
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5472
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5470
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5469
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5468
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5467
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5466
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5465
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5464
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5463
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5462
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5461
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5460
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5459
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5458
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5457
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5456
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5455
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5454
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5453
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5452
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5451
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5450
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5448
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5447
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5446
+CAEN: cz1 23 cz2 21 cz3 26 cz4 27
+Run: 5445
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5444
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5442
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5440
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5439
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5438
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5437
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5436
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5435
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5434
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5433
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5432
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5431
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5430
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5429
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5428
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5427
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5426
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5425
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27
+Run: 5424
+CAEN: cz1 24 cz2 25 cz3 26 cz4 27

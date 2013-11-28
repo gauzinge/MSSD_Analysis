@@ -1,0 +1,617 @@
+$@MID@$: 54
+Date: Thu, 25 Oct 2012 20:45:47 +0400
+Author: Georg Auzinger
+Run: 
+Type: Remark (general)
+Subject: Modules
+Attachment: 
+Encoding: HTML
+========================================
+<p>FTH N/P/Y unirradiated</p>
+<p>FZ320N_04_MSSD_1 unirradiated</p>
+<p>FZ200P_04_MSSD_1 unirradiated</p>
+<p>MCZ200N_02_MSSD_2 unirradiated</p>
+<p>&nbsp;</p>
+<p>rest: irradiated&nbsp;</p>
+$@MID@$: 53
+Date: Thu, 25 Oct 2012 17:01:50 +0400
+Author: Teppo Mäenpää
+Run: 5897
+Type: Problem fixed
+Subject: Beam test has ended.
+Attachment: 
+Encoding: HTML
+========================================
+<p>We are shutting the telescope down. No more problems. Except in packing, data analysis, etc.</p>
+$@MID@$: 52
+Date: Thu, 25 Oct 2012 14:15:58 +0400
+Author: Teppo Mäenpää
+Run: 5892
+Type: Remark (run)
+Subject: Cooling down
+Attachment: 
+Encoding: HTML
+========================================
+<p>Cooling down the box, hoping to get few more volts. SiBT hibernation likely in the near future.</p>
+$@MID@$: 51
+Date: Thu, 25 Oct 2012 05:06:39 +0400
+Author: Teppo Mäenpää
+Run: 5858
+Type: Problem fixed
+Subject: Slot 5 once again
+Attachment: 
+Encoding: HTML
+========================================
+<p>I noticed that one of the power leds in slot 5 vutri was poorly lit. I moved the power cable a bit, and the Vutri returned to its normal state. This powering issue has likely affected DUT 1 data in recent runs.</p>
+$@MID@$: 50
+Date: Thu, 25 Oct 2012 00:19:51 +0400
+Author: Henri Moilanen
+Run: 5842
+Type: Remark (run)
+Subject: Automatic scan running smoothly
+Attachment: 
+Encoding: HTML
+========================================
+<p>Scan consists of two sets of four voltage steps. Second four is shortly finishing so the scan has been run already once through. More statistics will be acquired during the night.</p>
+$@MID@$: 49
+Date: Wed, 24 Oct 2012 21:52:41 +0400
+Author: Teppo Mäenpää
+Run: ALL H2
+Type: Remark (general)
+Subject: Beam type
+Attachment: 
+Encoding: HTML
+========================================
+<p>The beam line parameter history can be downloaded from http://cern.ch/timber</p>
+$@MID@$: 48
+Date: Wed, 24 Oct 2012 16:36:25 +0400
+Author: Georg Auzinger
+Run: 
+Type: Remark (general)
+Subject: Fluences
+Attachment: 
+Encoding: HTML
+========================================
+<p>All irradiated Modules:</p>
+<p>1.5 10^15 1MeV Neq&nbsp;</p>
+$@MID@$: 47
+Date: Wed, 24 Oct 2012 16:20:31 +0400
+Author: Georg Auzinger
+Run: 5818
+Type: New Modules
+Subject: Last Set
+Attachment: 
+Encoding: HTML
+========================================
+<p>Slot 5: MCZ200N_04_MSSD_1 tilted!!</p>
+<p>Slot 6:&nbsp;MCZ200P_01_MSSD_2</p>
+<p>
+<p>Slot 7: FZ200Y_06_MSSD_1</p>
+</p>
+<p>Slot 8: MCZ200Y_05_MSSD_1</p>
+$@MID@$: 46
+Date: Wed, 24 Oct 2012 16:19:16 +0400
+Author: Georg Auzinger
+Run: 5818
+Type: Other
+Subject: Annealing
+Attachment: 
+Encoding: HTML
+========================================
+<p>80min @ 60deg</p>
+<p>for:</p>
+<p>MCZ200P_01_MSSD_2</p>
+<p>MCZ200Y_05_MSSD_1</p>
+<p>FZ200Y_06_MSSD_1</p>
+<p>FZ200P_01_MSSD_2&nbsp;</p>
+$@MID@$: 45
+Date: Wed, 24 Oct 2012 12:36:02 +0400
+Author: Teppo Mäenpää
+Run: 5817
+Type: Remark (run)
+Subject: warming up
+Attachment: 
+Encoding: HTML
+========================================
+<p>xCAL put the area to free access. We warm up the box now.</p>
+$@MID@$: 44
+Date: Wed, 24 Oct 2012 10:32:41 +0400
+Author: Teppo Mäenpää
+Run: 5807
+Type: Remark (run)
+Subject: Noise
+Attachment: 
+Encoding: HTML
+========================================
+<p>I changed the water temperature from +25C to 10C. That should not affect the box temperature but should cause the peltier units to remain a lot more quiet. Therefore, if there are any noise issues remaining where the blame goes to cooling, we should see it.</p>
+<p>In other words, if there are any noise changes between runs prior to&nbsp; 5807 and runs taken after 5809, please send me mail.</p>
+<p>Runs 5807 to 5809 should be excluded from this test as the temperature might not be fully stable when the water temperature is in transition. Apart from that, I would say that they are also OK.</p>
+$@MID@$: 43
+Date: Tue, 23 Oct 2012 23:06:27 +0400
+Author: Henri Moilanen
+Run: 5747
+Type: Remark (run)
+Subject: Muon beam
+Attachment: 
+Encoding: HTML
+========================================
+<p>Around run 5747 switched to a muon beam. Exact run number might be either 5747 or 5746. Operator busy with software development...</p>
+$@MID@$: 42
+Date: Tue, 23 Oct 2012 20:09:49 +0400
+Author: Henri Moilanen
+Run: 5734
+Type: Remark (run)
+Subject: Automatic scan started
+Attachment: 
+Encoding: HTML
+========================================
+<p>Pedestal run 5734 is the first with automatic scan.</p>
+<p>Beam type is 300GeV pion.</p>
+$@MID@$: 41
+Date: Tue, 23 Oct 2012 17:57:04 +0400
+Author: Henri Moilanen
+Run: 5721
+Type: New Modules
+Subject: Three modules in
+Attachment: 
+Encoding: HTML
+========================================
+<p>Slot 5: FTH200P_08_MSSD_1</p>
+<p>Slot 6: M200N_02_MSSD_2</p>
+<p>Slot 7: HIP300N1 (please cross-check! )</p>
+<p>&nbsp;</p>
+<p>Slot 7 has a tilted brass plate, also the detector in slot 7 is not in 45 degree angle.</p>
+$@MID@$: 40
+Date: Tue, 23 Oct 2012 00:25:10 +0400
+Author: Henri Moilanen
+Run: 5676
+Type: Remark (run)
+Subject: Automatic scan started
+Attachment: 
+Encoding: HTML
+========================================
+<p>Pedestal run 5676 was first of tonight's automatic scan. So far (at least up to run 5681) beam spot is very nicely spread out and rate is reasonable (1000trig/spill). What I heard about plans for tonight from [he]cal group, the beam should stay like this for at least couple of hours (counting from half an hour before this elog entry). They will change the beam after that. Bias voltage steps were chosen not to exceed 1mA limit. Perhaps the currents could've been stable even higher than that, but I decided to play it safe.</p>
+<p>&nbsp;</p>
+$@MID@$: 39
+Date: Mon, 22 Oct 2012 19:32:52 +0400
+Author: Henri Moilanen
+Run: 5675
+Type: Remark (run)
+Subject: Bias voltages playing and cooling 
+Attachment: 
+Encoding: HTML
+========================================
+<p>Bias voltage will not be stable during this run, neither will be temperature.</p>
+$@MID@$: 38
+Date: Mon, 22 Oct 2012 19:27:32 +0400
+Author: Georg Auzinger
+Run: 5675
+Type: Remark (run)
+Subject: 150GeV Muons
+Attachment: 
+Encoding: HTML
+========================================
+<p>&nbsp;see subject</p>
+$@MID@$: 37
+Date: Mon, 22 Oct 2012 14:39:37 +0400
+In reply to: 36
+Author: Georg Auzinger
+Run: 5660
+Type: New Modules
+Subject: Module Exchange
+Attachment: 
+Encoding: HTML
+========================================
+<p>
+<table width="98%" align="center" cellspacing="1" style="border:1px solid #486090;">
+    <tbody>
+        <tr>
+            <td cellpadding="3px" style="background-color:#486090; font-weidht:bold; color:white;">Georg Auzinger wrote:</td>
+        </tr>
+        <tr>
+            <td cellpadding="10px" style="background-color:#FFFFB0;">
+            <p>SLOT 5: &nbsp;FZ200N_04_MSSD_2 to &nbsp;FZ320N_04_MSSD_1</p>
+            <p>SLOT 6: &nbsp;MCZ200N_04_MSSD_1 to FZ200Y_ 06_MSSD_1</p>
+            <p>SLOT 7: &nbsp;FZ320Y_05_MSSD_1 to FZ200P_01_MSSD_2</p>
+            <p>SLOT 8: &nbsp;FZ320N_05_MSSD_1 to MCZ200P_01_MSSD_2</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>&nbsp;SLOT 7: broken bias bond not easily repairable</p>
+<p>REPLACED:</p>
+<p>MCZ200Y_05_MSSD_1</p>
+$@MID@$: 36
+Date: Mon, 22 Oct 2012 14:07:53 +0400
+Reply to: 37
+Author: Georg Auzinger
+Run: 5660
+Type: New Modules
+Subject: Module Exchange
+Attachment: 
+Encoding: HTML
+========================================
+<p>SLOT 5: &nbsp;FZ200N_04_MSSD_2 to &nbsp;FZ320N_04_MSSD_1</p>
+<p>SLOT 6: &nbsp;MCZ200N_04_MSSD_1 to FZ200Y_ 06_MSSD_1</p>
+<p>SLOT 7: &nbsp;FZ320Y_05_MSSD_1 to FZ200P_01_MSSD_2</p>
+<p>SLOT 8: &nbsp;FZ320N_05_MSSD_1 to MCZ200P_01_MSSD_2</p>
+$@MID@$: 35
+Date: Mon, 22 Oct 2012 11:09:02 +0400
+Author: Teppo Mäenpää
+Run: 5658
+Type: Remark (run)
+Subject: bias off
+Attachment: 
+Encoding: HTML
+========================================
+<p>Detector biases switched off at nine o'clock. If we are lucky, this might allow us to see how a bias-off situation affects sensor temperatures.</p>
+$@MID@$: 34
+Date: Mon, 22 Oct 2012 10:38:14 +0400
+In reply to: 28
+Author: Teppo Mäenpää
+Run: 5586
+Type: New Modules
+Subject: Modules exchanged
+Attachment: 
+Encoding: HTML
+========================================
+<p>
+<table width="98%" align="center" cellspacing="1" style="border:1px solid #486090;">
+    <tbody>
+        <tr>
+            <td cellpadding="3px" style="background-color:#486090; font-weidht:bold; color:white;">Teppo M&auml;enp&auml;&auml; wrote:</td>
+        </tr>
+        <tr>
+            <td cellpadding="10px" style="background-color:#FFFFB0;">
+            <p>Slot 8: FZ200P04MSSD1 to FZ320N05MSSSD1</p>
+            <p>Slot 7: FTH200NW24MSSD2 to FZ320Y05MSS (the end of module label was not readable)</p>
+            <p>Slot 6: FTH200Y03MSSD1 to M200N04MSSD1</p>
+            <p>Slot 5: [something] to FZ200N04MSS (Reinhard took the previous module out, I did not x-check its identity)</p>
+            <p>We had to bypass a bias resistor on a EMUTRI adapter board, as its resistance had increased to infinity. This might explain the lower-than-expected signal in slot 5 in the previous insertion. We are cooling the black box down as I write this.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>SLOT 7: FZ320Y_05_MSSD_1</p>
+<p>SLOT 5: FZ200N_04_MSSD_2&nbsp;</p>
+$@MID@$: 33
+Date: Mon, 22 Oct 2012 10:37:53 +0400
+In reply to: 28
+Author: Teppo Mäenpää
+Run: 5586
+Type: New Modules
+Subject: Modules exchanged
+Attachment: 
+Encoding: HTML
+========================================
+<p>
+<table width="98%" align="center" cellspacing="1" style="border:1px solid #486090;">
+    <tbody>
+        <tr>
+            <td cellpadding="3px" style="background-color:#486090; font-weidht:bold; color:white;">Teppo M&auml;enp&auml;&auml; wrote:</td>
+        </tr>
+        <tr>
+            <td cellpadding="10px" style="background-color:#FFFFB0;">
+            <p>Slot 8: FZ200P04MSSD1 to FZ320N05MSSSD1</p>
+            <p>Slot 7: FTH200NW24MSSD2 to FZ320Y05MSS (the end of module label was not readable)</p>
+            <p>Slot 6: FTH200Y03MSSD1 to M200N04MSSD1</p>
+            <p>Slot 5: [something] to FZ200N04MSS (Reinhard took the previous module out, I did not x-check its identity)</p>
+            <p>We had to bypass a bias resistor on a EMUTRI adapter board, as its resistance had increased to infinity. This might explain the lower-than-expected signal in slot 5 in the previous insertion. We are cooling the black box down as I write this.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>SLOT 7: FZ320Y_05_MSSD_1</p>
+<p>SLOT 5: FZ200N_04_MSSD_2&nbsp;</p>
+$@MID@$: 32
+Date: Mon, 22 Oct 2012 00:12:54 +0400
+Author: Henri Moilanen
+Run: 5624
+Type: Remark (general)
+Subject: Horrible beam during evening.
+Attachment: 
+Encoding: HTML
+========================================
+<p>Better luck during night time I guess! Automatic run is on and taking its first data point (already for an hour or so)... Grumble grumble...&nbsp; </p>
+$@MID@$: 31
+Date: Sun, 21 Oct 2012 22:02:18 +0400
+Author: Henri Moilanen
+Run: 5623
+Type: Remark (run)
+Subject: Automatic scan started
+Attachment: 
+Encoding: HTML
+========================================
+<p>Beam is weak. Horribly weak. But the [he]cal wants to have their 50k events. I just hope the night goes smoothly.</p>
+$@MID@$: 30
+Date: Sun, 21 Oct 2012 19:15:05 +0400
+Author: Henri Moilanen
+Run: 5622
+Type: Remark (run)
+Subject: Beam type
+Attachment: 
+Encoding: HTML
+========================================
+<p>30GeV beam. At start of 5622 run.</p>
+$@MID@$: 29
+Date: Sun, 21 Oct 2012 18:07:20 +0400
+Author: Teppo Mäenpää
+Run: 5614
+Type: Remark (run)
+Subject: DUT 4
+Attachment: 
+Encoding: HTML
+========================================
+<p>I lowered DUT4 bias in the middle of the run by 25V as the detector was in thermal runaway and consumed almost 1mA. The change took place after 11k events had been acquired.</p>
+$@MID@$: 28
+Date: Sun, 21 Oct 2012 14:28:38 +0400
+Reply to: 33, 34
+Author: Teppo Mäenpää
+Run: 5586
+Type: New Modules
+Subject: Modules exchanged
+Attachment: 
+Encoding: HTML
+========================================
+<p>Slot 8: FZ200P04MSSD1 to FZ320N05MSSSD1</p>
+<p>Slot 7: FTH200NW24MSSD2 to FZ320Y05MSS (the end of module label was not readable)</p>
+<p>Slot 6: FTH200Y03MSSD1 to M200N04MSSD1</p>
+<p>Slot 5: [something] to FZ200N04MSS (Reinhard took the previous module out, I did not x-check its identity)</p>
+<p>We had to bypass a bias resistor on a EMUTRI adapter board, as its resistance had increased to infinity. This might explain the lower-than-expected signal in slot 5 in the previous insertion. We are cooling the black box down as I write this.</p>
+$@MID@$: 27
+Date: Sun, 21 Oct 2012 10:21:27 +0400
+Author: Teppo Mäenpää
+Run: 5575
+Type: Scan summary
+Subject: Temperature swing
+Attachment: 
+Encoding: HTML
+========================================
+<p>Temperature was set to -20 at four o'clock. It stabilized something like 90 minutes later. The box was set to warm up at 08:10. Check run temperatures and mind that they might be atypical / in transition for last runs in this set. beam was OK during night time, at least trigger count wise. Currently there are hardly any particles. I expect a module exchange after the box has warmed up.</p>
+$@MID@$: 26
+Date: Sun, 21 Oct 2012 00:06:29 +0400
+Author: Henri Moilanen
+Run: 5554
+Type: Remark (run)
+Subject: Beam type
+Attachment: 
+Encoding: HTML
+========================================
+<p>Beam type changes to 30GeV during run 5554, after 45k events.</p>
+$@MID@$: 25
+Date: Sat, 20 Oct 2012 23:26:42 +0400
+Author: Henri Moilanen
+Run: 5552
+Type: Remark (run)
+Subject: Beam type
+Attachment: 
+Encoding: HTML
+========================================
+<p>Run 5552 is at 20GeV.</p>
+$@MID@$: 24
+Date: Sat, 20 Oct 2012 23:23:24 +0400
+Author: Henri Moilanen
+Run: 5552
+Type: Remark (run)
+Subject: Had a short access between runs 5551 and 5552.
+Attachment: 
+Encoding: HTML
+========================================
+<p>Decided to check if there were any obvious problems with the detector at slot 5 (and also with the control ring cables). None were visible. Seems like I did not introduce any new problems either, so I guess I had luck there.</p>
+$@MID@$: 23
+Date: Sat, 20 Oct 2012 22:37:30 +0400
+Author: Henri Moilanen
+Run: 5551
+Type: Remark (run)
+Subject: Low rate
+Attachment: 
+Encoding: HTML
+========================================
+<p>Looks like [he]cal guys managed to lower the rate quite a bit. Our scintillator coincidence rate is ~1000/spill, and daq-seen-trigger rate is ~700/spill.</p>
+$@MID@$: 22
+Date: Sat, 20 Oct 2012 22:19:45 +0400
+Author: Henri Moilanen
+Run: 5549
+Type: Remark (run)
+Subject: [EH]CAL guys start to take data using 20GeV Pion beam
+Attachment: 
+Encoding: HTML
+========================================
+<p>At run 5549 after 50k events, beam change back to 20GeV. They had too big electron contamination in the beam... Going to re-do absorber etc stuff... Let's hope for the best.</p>
+$@MID@$: 21
+Date: Sat, 20 Oct 2012 22:13:38 +0400
+Author: Henri Moilanen
+Run: 5549
+Type: Other
+Subject: * Contrary to popular belief, I am NOT _willing_ to do more night shifts *
+Attachment: 
+Encoding: HTML
+========================================
+<p>The subject says it all.</p>
+<p>But then again, I am already in a night shift today and tomorrow...</p>
+$@MID@$: 20
+Date: Sat, 20 Oct 2012 22:09:59 +0400
+Author: Henri Moilanen
+Run: 5549
+Type: I am willing to do more night shifts
+Subject: [EH]CAL guys start to take data using 100GeV Pion beam
+Attachment: 
+Encoding: HTML
+========================================
+<p>At run 5549, after 25k events, beam change to 100GeV.</p>
+$@MID@$: 19
+Date: Sat, 20 Oct 2012 21:41:16 +0400
+Author: Henri Moilanen
+Run: 5547
+Type: Remark (run)
+Subject: [EH]CAL guys start to take data using 50GeV Pion beam
+Attachment: 
+Encoding: HTML
+========================================
+<p>At start of run 5547 beam energy change.</p>
+$@MID@$: 18
+Date: Sat, 20 Oct 2012 21:16:42 +0400
+Author: Henri Moilanen
+Run: 5544
+Type: Remark (run)
+Subject: [EH]CAL guys start to take data using 30GeV Pion beam
+Attachment: 
+Encoding: HTML
+========================================
+<p>After run 5544 beam type change. Energy 30GeV.</p>
+$@MID@$: 17
+Date: Sat, 20 Oct 2012 20:42:33 +0400
+Author: Henri Moilanen
+Run: 5541
+Type: Remark (run)
+Subject: [EH]CAL guys start to take data using 20GeV Pion beam
+Attachment: 
+Encoding: HTML
+========================================
+<p>Just to note. After approx 26k events of run 5541, there will be beam type change.</p>
+$@MID@$: 16
+Date: Sat, 20 Oct 2012 17:03:34 +0400
+Author: Teppo Mäenpää
+Run: 5527
+Type: New Modules
+Subject: Modules exchanged
+Attachment: 
+Encoding: HTML
+========================================
+<p>Slot 5: FTH200P08MSSD1 to M200N02MSSD2</p>
+<p>Slot 6: HIPMCZ300P1 to FTH200Y03MSSD1</p>
+<p>Slot 7: HIPMCZ200N1 to FTH200NW24MSSD2</p>
+<p>Slot 8: [none] to FZ200P04MSSD1</p>
+<p>Remark: The P1 module was in minus orientation. We soldered some additional grounding related stuff during the exchange.</p>
+$@MID@$: 15
+Date: Sat, 20 Oct 2012 16:58:51 +0400
+Author: Teppo Mäenpää
+Run: 5523
+Type: Remark (run)
+Subject: I messed up the HIP detector.
+Attachment: 
+Encoding: HTML
+========================================
+<p>Leakage current of slot 7 sensor starts to increase. Data might be bad. Beam has been off most of the day.</p>
+$@MID@$: 14
+Date: Fri, 19 Oct 2012 21:31:45 +0400
+Author: Teppo Mäenpää
+Run: 5484
+Type: Remark (run)
+Subject: Beam type
+Attachment: 
+Encoding: HTML
+========================================
+<p>Somebody put the to free access. We now have only halo muons, regardless of what the beam file says. This might affect something. Beam profile should tell how long this condition lasts. We are about to start scanning (read: we do not plan to tinker with the box in coming few hours)</p>
+<p>Slot 6<span class="ssens"> </span>abruptly trips at somewhat above 150V. We have made an exotic zener diode. Which journal accepts papers on this topic?</p>
+<p>&nbsp;</p>
+$@MID@$: 13
+Date: Fri, 19 Oct 2012 21:26:01 +0400
+Author: Teppo Mäenpää
+Run: 5484
+Type: Remark (run)
+Subject: 
+Attachment: 
+Encoding: HTML
+========================================
+
+$@MID@$: 12
+Date: Fri, 19 Oct 2012 19:36:47 +0400
+Author: Georg Auzinger
+Run: 
+Type: Remark (general)
+Subject: Desired HPK Testing Programme
+Attachment: 
+Encoding: HTML
+========================================
+<p>&nbsp;WARM DUTs:</p>
+<p>FTH200 N,P,Y (Vdepl~180V): 100 to 300 V in 50V Steps</p>
+<p>References:</p>
+<p>FZ320N 150 to 400V in 50V Steps</p>
+<p>FZ200P, MCZ200N: 100 to 300V in 50V Steps</p>
+<p>&nbsp;</p>
+<p>irradiated:</p>
+<p>From FNAL (annealed):</p>
+<p>FZ320N &nbsp; &nbsp;FZ320Y &nbsp; &nbsp;FZ200N &nbsp; &nbsp;MCZ200N &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;400 to as high as possible!</p>
+<p>&nbsp;</p>
+<p>from CERN, not annealed:</p>
+<p>FZ200P &nbsp; &nbsp;FZ200Y &nbsp; &nbsp;MCZ200P &nbsp; &nbsp;MCZ200Y &nbsp; &nbsp; &nbsp; &nbsp;400 to as high as possible!</p>
+<p>&nbsp;</p>
+<p>additional:&nbsp;</p>
+<p>if possible: FZ200P_04_MSSD_1 (reference) 2 runs @250V warm and cold? with separate logging of RU Numbers for Signal (warm &amp; cold) comparison!</p>
+$@MID@$: 11
+Date: Fri, 19 Oct 2012 19:03:56 +0400
+Author: Teppo Mäenpää
+Run: 5474
+Type: Remark (general)
+Subject: Clocks were wrong
+Attachment: 
+Encoding: HTML
+========================================
+<p>Clocks on the daq computers were wrong.</p>
+<p>Monitor time was Fri Oct 19 16:53:54 CEST 2012</p>
+<p>while server time was Fri Oct 19 17:00:39 CEST 2012</p>
+<p>and sibt1 time Fri Oct 19 16:58:19 CEST 2012</p>
+<p>This causes a great headache when parsing logs. Corrected during the run 5474.</p>
+$@MID@$: 10
+Date: Fri, 19 Oct 2012 15:17:16 +0400
+In reply to: 9
+Author: Teppo Mäenpää
+Run: 5450
+Type: Problem fixed
+Subject: Data usable now
+Attachment: 
+Encoding: HTML
+========================================
+<p>
+<table width="98%" cellspacing="1" align="center" style="border:1px solid #486090;">
+    <tbody>
+        <tr>
+            <td style="background-color:#486090; font-weidht:bold; color:white;" cellpadding="3px">Teppo M&auml;enp&auml;&auml; wrote:</td>
+        </tr>
+        <tr>
+            <td style="background-color:#FFFFB0;" cellpadding="10px">
+            <p>I have finished timing scanning. Also APV polarities should be OK. Even the detectors seem to bias. In short, there are no known problems in DUT data just now. I wish I knew what voltages to apply on the MSSD.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>
+<p>&nbsp;The tripping problem in one of the DUTs seemed to be related to too high ramping up speed in combination with too low current limit.</p>
+$@MID@$: 9
+Date: Fri, 19 Oct 2012 15:11:02 +0400
+Reply to: 10
+Author: Teppo Mäenpää
+Run: 5450
+Type: Problem fixed
+Subject: Data usable now
+Attachment: 
+Encoding: HTML
+========================================
+<p>I have finished timing scanning. Also APV polarities should be OK. Even the detectors seem to bias. In short, there are no known problems in DUT data just now. I wish I knew what voltages to apply on the MSSD.</p>
+$@MID@$: 8
+Date: Fri, 19 Oct 2012 14:18:36 +0400
+Author: Panja Luukka
+Run: 
+Type: Remark (general)
+Subject: MD was moved from 23.10. to 22.10.
+Attachment: 
+Encoding: HTML
+========================================
+<p>The MD that was supposed to take place on 23.10. was moved to Monday 22.10. For SiBT this means that we will most probably continue the data taking until 25.10. and dismantle the setup on 31.10.when there is the next programmed MD. </p>
+$@MID@$: 7
+Date: Fri, 19 Oct 2012 14:00:23 +0400
+Author: Panja Luukka
+Run: starting from 5445 October 2012
+Type: New Modules
+Subject: 1 set of DUT modules for Oct. 2012 beam test inserted.
+Attachment: 
+Encoding: HTML
+========================================
+<p>Slot 5: FTH200P_08_MSSD_1</p>
+<p>Slot 6: HIP_MCZ300P_1</p>
+<p>Slot7: HIP_MCZ300N_1</p>
+<p>Slot 8: empty</p>
