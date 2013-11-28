@@ -1,0 +1,10 @@
+#FTH200
+
+#May/Oct
+Name FTH200N_24_MSSD_2
+Name FTH200P_08_MSSD_1
+Name FTH200Y_03_MSSD_1
+
+Region 3 
+
+Measurement Resolution Efficiency

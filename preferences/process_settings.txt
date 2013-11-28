@@ -1,0 +1,6 @@
+#Settings File for process
+
+PedeNoise false
+ClusterAlign true
+Trackhit true
+onTrackCluster true

@@ -1,0 +1,28 @@
+#to comment
+#if no names or names/regions are provided
+#all possible material/thickness/doping etc will be used
+#FZ200
+
+#unirr
+#Name/Region FZ200N_01_MSSD_1 5 7
+#Name/Region FZ200P_04_MSSD_1 5 7
+#Name/Region FZ200Y_02_MSSD_2 5 7
+
+#irradiated
+#Name/Region FZ200N_04_MSSD_2 5 7
+#Name/Region FZ200P_01_MSSD_2 5 7
+#Name/Region FZ200Y_06_MSSD_1 5 7
+
+Material FZ FTH MCZ
+
+Doping N P Y
+
+Thickness 200
+
+Fluence  1.5E15
+
+Particles p+n
+
+Region 7
+
+Measurement Signal Noise

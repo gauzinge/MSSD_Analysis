@@ -1,0 +1,28 @@
+#Settingsfile for ./plot
+
+ChargeUnit ELECTRONS_REF
+#possible are: ELECTRONS_TICKS ELECTRONS_THICK ELECTRONS_REF ADC
+
+Collection TRACKHITS
+#possible are: ONTRACKCLUSTERS TRACKHITS PEAKDISTANCE
+
+#Track based plots
+InterstripPosition false
+
+Efficiencymap false
+
+Chargemap false
+
+Resolution true
+
+Clusterwidth true
+
+SignalProfile false
+
+Noise true
+
+Noiseprofile true
+
+Datafluctuations false
+
+Efficiency false

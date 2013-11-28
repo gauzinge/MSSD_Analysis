@@ -1,0 +1,18 @@
+#Thickness Comparison unirradiated
+Name FZ120N_02_MSSD_1
+Name FZ200N_01_MSSD_1
+Name FZ200P_04_MSSD_1
+Name FZ200Y_02_MSSD_2
+Name FZ320N_08_MSSD_1
+Name FZ320P_01_MSSD_1
+
+Name FZ320N_04_MSSD_1
+
+Name MCZ200N_02_MSSD_2
+Name FTH200N_24_MSSD_2
+Name FTH200P_08_MSSD_1
+Name FTH200Y_03_MSSD_1
+
+Region 3
+
+Measurement Signal

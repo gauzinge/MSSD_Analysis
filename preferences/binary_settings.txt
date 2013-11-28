@@ -1,0 +1,5 @@
+#Settingsfile for ./binary
+
+Algorithm binary12 binary1 
+
+Region 3 7
